@@ -1,0 +1,208 @@
+img{
+    width: 74px;
+    height: 74px;
+    
+
+}
+body{
+    margin: 0;
+}
+
+.mainbox{
+    width: 100%;
+    height: 74px;
+    background-color:white ;
+    border-color: black;
+    
+}
+.titles{
+     margin-left:80px ;
+     margin-top:-46px ;
+     font-size: large;
+     letter-spacing: 1px;
+     font-family:monospace;
+     color: blue;
+
+}
+a{
+    margin-left: 30px;
+}
+.box1 img{
+    margin-left:840px;
+    margin-top: -47px;
+    width: 160px;
+    
+}
+.box2{
+    margin-left: 1018px;
+    margin-top: -81px;
+    background-color:gainsboro;
+    width: 258px;
+    height: 72px;
+    
+}
+.box2 img{
+    width: 45px;
+    height: 45px;
+    padding-top: 11px;
+}
+
+    
+
+.box3 img{
+    width: 100%;
+    height: 475px;
+    position: absolute;
+}
+.bluebox{
+    width: 510px;
+    height: 400px;
+    background-color: blue;
+   
+    border: white;
+    border-style:groove;
+    opacity: 0.65;
+}
+.image2 img{
+    height: 600px;
+    width: 100%;
+    padding-top: 71px;
+}
+.greybox{
+    width: 100%;
+    height: 600px;
+    background-color: rgb(52, 51, 51);
+}
+.story img{
+    width: 456px;
+    height: 256px;
+    margin-top: 10px;
+    margin-left: 162px;
+}
+.moon img{
+    width: 456px;
+    height: 256px;
+    margin-top: -399px;
+    margin-left: 651px;
+}
+h2{
+    cursor: pointer;
+    text-decoration: dashed underline;
+}
+.combine img{
+    width: 100%;
+    height: 400px;
+}
+.greybox2{
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(52, 51, 51);
+}
+.lastblue{
+    width: 100%;
+    height: 350px;
+    background-color: rgb(81, 94, 212);
+    margin-top: -299px;
+}
+button{
+    color:rgb(81, 94, 212);
+    margin-left: 120px;
+    width: 100px;
+    margin-top: -100px;
+
+}
+.blueword{
+    margin-top: 20px;
+    margin-left: 30px;
+    padding-top: 80px;
+
+
+    
+}
+.greys img{
+    width: 300px;
+    height: 200px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.greys{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+.greys2 img{
+    width: 300px;
+    height: 200px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.greys2{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+.greys3 img{
+    width: 300px;
+    height: 200px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.greys3{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+.blueimage img{
+    margin-left:782px;
+    margin-top: -110px;
+    width: 400px;
+    height: 200px;
+}
+.footer{
+    width: 100%;
+    height: 350px;
+    
+}
+.foot1 {
+    display: flex;
+    font-family:Arial, Helvetica, sans-serif;
+    font: bold;
+    width: 100px;
+    margin-top: 100px;
+    margin-left: 150px; 
+      
+text-wrap: nowrap;
+cursor: pointer;
+}
+.foot1 a:hover{
+    color: black;
+    text-decoration: underline;
+}
+.intelogo{
+    margin-left: 20px;
+}
+.logos img{
+    width: 248px;
+    margin-top: -84px;
+    margin-left: 181px;
+    height: auto;
+    cursor: pointer;
+}
+.footpara a{
+    cursor: pointer;
+}
+.footpara a:hover{
+    text-decoration: underline;
+}
+.footpara{
+    margin-left: 183px;
+}
+.footpara p{
+    font-size: 14px;
+}
+.titles a{
+    cursor: pointer;
+}
+.titles a:hover{
+    color: black;
+}
